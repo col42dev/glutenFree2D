@@ -1,0 +1,24 @@
+{
+  "name": "glutenFree2D",
+  "version": "0.0.0",
+  "description": "template for 2D games http://learnjs.io/blog/2013/11/16/simple-2d-game/",
+  "main": "index.js",
+  "scripts": {
+    "start": "beefy game.js:bundle.js --live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/col42dev/glutenFree2D"
+  },
+  "keywords": [
+    "2D",
+    "game",
+    "framework",
+    "JS"
+  ],
+  "author": "colin moore",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/col42dev/glutenFree2D/issues"
+  }
+}
